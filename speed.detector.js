@@ -9,9 +9,9 @@ function checkspeed(speed) {
       if(demeritspoints >12){
         console.log('License suspended');
       }
-      return demeritspoints;
+      return demerit points;
     }
 }
 //Example usage:
 let speed=parseInt(prompt("Enter car's speed:"));
-checkspeed(speed);
+check speed(speed);
